@@ -1,4 +1,4 @@
-package com.ace.jdk.sourceCode;
+package com.ace.jdk.sourceCode.CollectionClass;
 
 import java.util.HashMap;
 import java.util.Map;
