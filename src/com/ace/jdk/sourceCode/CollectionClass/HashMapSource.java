@@ -22,10 +22,6 @@ public class HashMapSource {
 			}
 		};
 
-		ExecutorService  pool =  Executors.newSingleThreadExecutor();
-		FutureTask ftask = (FutureTask) pool.submit(task);
-		
-		Executors.newFixedThreadPool(5);
 		
 	}
 
